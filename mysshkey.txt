@@ -1,0 +1,14 @@
+SHA256:GHQNYZmfs3lEWChGC0uENgfFyqG4nH22zD0Q8mEf8CI kim29112024@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+|    .**.** +.    |
+|    =+o==.+ .    |
+| . + ==..o o     |
+|. .Eo= =  + .    |
+|..o = * S  =     |
+|.o . = .  o .    |
+|    = +    .     |
+|     + o         |
+|        .        |
++----[SHA256]-----+
+
