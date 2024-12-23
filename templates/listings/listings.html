@@ -35,6 +35,7 @@
         <div class="container">
           <div class="row">
             <!-- Listing 1 -->
+            {% if listings %}
             <div class="col-md-6 col-lg-4 mb-4">
               <div class="card listing-preview">
                 <!-- correct -->
@@ -94,7 +95,11 @@
                 </div>
               </div>
             </div>
-  
+            {% else %}
+            <div class="col-md-12">
+              <p>No Listing Available</p>
+            </div>
+            {% endif %}
             <!-- Listing 2 -->
             <div class="col-md-6 col-lg-4 mb-4">
               <div class="card listing-preview">
