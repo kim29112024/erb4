@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'listings.apps.ListingsConfig',
     'realtors.apps.RealtorsConfig',
     'debug_toolbar',
+    'django.contrib.humanize',
 ]
 
 MIDDLEWARE = [
