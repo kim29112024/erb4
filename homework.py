@@ -1,6 +1,5 @@
 import json
 from listings.models import Listing
-from realtors.models import Realtor
 
 with open('listings.json') as f:
     listings_json = json.load(f)
